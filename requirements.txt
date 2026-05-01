@@ -1,0 +1,7 @@
+openai>=1.40.0
+rich>=13.7.1
+pyttsx3>=2.90
+python-dotenv>=1.0.1
+numpy>=1.26.0
+scipy>=1.11.0
+soundfile>=0.12.1
